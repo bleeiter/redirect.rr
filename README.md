@@ -16,5 +16,5 @@ click and go to the redirect.rr site
 i wanna make a new website so this probably will be deleted
 
 # index.html v0.2
-the v0.2 uses google drive and it's 4k 60 fps, you can use it when index.html v0.2 it's ready.
+the v0.2 uses google drive and it's 1080p (probably i change it to 480p or 720p) 60 fps, you can use it when index.html v0.2 it's ready.
 v0.2 have so much problems so if you wanna use it beware
